@@ -1,5 +1,6 @@
 # Random-Phone-Number-Generator
 The length of a phone number has to be 10 digits (all starting with zero) and should always be unique. 
+
 [![Build Status](https://travis-ci.org/ruganda/Random-Phone-Number-Generator.svg?branch=master&service=github)](https://travis-ci.org/ruganda/Random-Phone-Number-Generator)
 [![Coverage Status](https://coveralls.io/repos/github/ruganda/Random-Phone-Number-Generator/badge.svg?branch=master&service=github)](https://coveralls.io/github/ruganda/Random-Phone-Number-Generator?branch=master)
 
