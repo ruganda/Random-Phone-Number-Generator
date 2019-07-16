@@ -18,7 +18,7 @@ Random Number Generator:
 **Application demo**
 
 * To interact with the application via postman
-     * https://rugandasmsAPIherokuapp.com/
+     * https://ruganda-phone-number-generator.herokuapp.com/
 
     then use the following endpoints to perform the specified tasks
     
