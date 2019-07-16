@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruganda/SMS-management.git"
+    "url": "git+hhttps://github.com/ruganda/Random-Phone-Number-Generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruganda/SMS-management/issues"
+    "url": "https://github.com/ruganda/Random-Phone-Number-Generator/issues"
   },
-  "homepage": "https://github.com/ruganda/SMS-management#readme",
+  "homepage": "https://github.com/ruganda/Random-Phone-Number-Generator#readme",
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/node": "^7.4.5",
